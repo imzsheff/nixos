@@ -158,6 +158,7 @@
     # for terminal
     fzf
     fastfetch
+    btop
 
   ];
 
